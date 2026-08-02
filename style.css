@@ -1,0 +1,113 @@
+body {
+
+background:#000;
+
+color:#00ff88;
+
+font-family:
+"Courier New",
+monospace;
+
+line-height:1.7;
+
+margin:0;
+
+padding:40px;
+
+}
+
+
+.container {
+
+max-width:900px;
+
+margin:auto;
+
+}
+
+
+h1 {
+
+font-size:42px;
+
+letter-spacing:5px;
+
+}
+
+
+h2 {
+
+margin-top:50px;
+
+color:#7dffbf;
+
+}
+
+
+.terminal {
+
+border:1px solid #00ff88;
+
+padding:30px;
+
+margin:40px 0;
+
+box-shadow:
+0 0 20px rgba(0,255,136,.2);
+
+}
+
+
+.status {
+
+opacity:.7;
+
+margin-bottom:20px;
+
+}
+
+
+#output {
+
+min-height:180px;
+
+white-space:pre-line;
+
+font-size:18px;
+
+}
+
+
+button {
+
+background:#000;
+
+border:1px solid #00ff88;
+
+color:#00ff88;
+
+padding:15px 30px;
+
+font-family:inherit;
+
+cursor:pointer;
+
+margin-top:30px;
+
+}
+
+
+button:hover {
+
+background:#003322;
+
+}
+
+
+pre {
+
+border-left:2px solid #00ff88;
+
+padding-left:20px;
+
+}
